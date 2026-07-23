@@ -1,0 +1,6 @@
+@RentDriveApi_HostAddress = http://localhost:5062
+
+GET {{RentDriveApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
